@@ -1,0 +1,8 @@
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\Cümle\bin\Debug\Cümle.exe.config
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\Cümle\bin\Debug\Cümle.exe
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\Cümle\bin\Debug\Cümle.pdb
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\Cümle\obj\Debug\Cumle.csproj.AssemblyReference.cache
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\Cümle\obj\Debug\Cumle.csproj.SuggestedBindingRedirects.cache
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\Cümle\obj\Debug\Cumle.csproj.CoreCompileInputs.cache
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\Cümle\obj\Debug\Cümle.exe
+C:\Users\xLmNt-Pc\source\repos\CSharpCourse\Cümle\obj\Debug\Cümle.pdb
